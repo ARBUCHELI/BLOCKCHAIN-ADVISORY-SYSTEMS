@@ -1,0 +1,586 @@
+		html {
+    		overflow-x: hidden; }
+
+		body {
+			background-color: #5F9EA0;
+		}
+
+		.content {
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.box {
+			width: 100%;
+		}
+
+		.caja-superior {
+			background-color: #F0FFF0;
+			box-sizing: border-box;
+			border-radius: 10px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			margin-bottom: 15px;
+			border-style: solid;
+			border-width: 5px;
+			border-color: #85C8E9;
+		}
+
+		#first-header {
+			font-family: Times-New-Roman;
+			text-align: center;
+			color: #563f46;
+		}
+
+		#second-header{
+			color: #008080;
+			font-family: Times-New-Roman;
+			font-size: 3em;
+			text-align: center;
+		}
+
+		.header__logo {
+  			height: 120px;
+  			width: 150px;
+		}
+
+		.navegador {
+			display: flex;
+			flex-wrap: wrap;
+			padding-left: 1em;
+		}
+
+		.nav {
+  			width: 100%;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+
+		.nav__list {
+ 			width: 100%;
+  			padding: 0;
+  			margin: 0;
+		}
+
+		.nav__item {
+  			box-sizing: border-box;
+ 			display: inline-block;
+  			width: 24%;
+  			text-align: center;
+  			line-height: 24px;
+  			padding: 24px;
+  			text-transform: uppercase;
+  			cursor: pointer;
+  			font-size: 1.5em;
+		}
+
+		.nav a {
+  			text-decoration: none;
+  			color: white;
+  			font-weight: bold;
+  			font-size: 1em;
+		}
+
+		.nav a:hover {
+  			text-decoration: underline;
+  			color: #212121;
+  			padding: 1.5em;
+  			cursor: pointer;
+		}
+
+		.shoking {
+  			float: left;
+  			width: 100%;
+  			position: relative;
+  			background-image: url("technology.jpg");
+  			border-radius: 10px;
+  			background-size: cover;
+  			height: 300px;
+		}
+
+		.shoking article {
+  			box-sizing: border-box;
+  			background-color: #000;
+  			background-color: rgba(0, 0, 0, 0.7);
+  			position: absolute;
+  			border-radius: 10px;
+  			bottom: 0;
+  			height: 40%;
+  			width: 100%;
+  			color: #fff;
+  			padding: 1em;
+		}
+
+		.top-news {
+  			float: right;
+  			width: 100%;
+  			height: 300px;
+  			border-bottom: 1px solid #E0E0E0;
+  			padding: 0.1em;
+  			font-size: 1em;
+		}
+
+		.news__title {
+  			font-weight: bold;
+  			border-bottom: 1px solid #E0E0E0;
+  			line-height: 24px;
+  			font-size: 1.3em;
+  			color: #ffcc5c;
+		}
+
+		.news__more {
+  			float: right;
+  			font-size: .8em;
+  			color: #ffcc5c;
+  			font-weight: bold;
+  			text-decoration: none;
+  			font-size: 1em;
+		}
+
+		ul {
+			list-style: none;
+  			padding: 0;
+  			margin: 0;
+		}
+
+		.top-news__item {
+ 		 	border-bottom: 1px solid #E0E0E0;
+  			padding: 1em 0;
+  			line-height: 19.2px;
+  			font-size: 1em;
+		}
+
+		.top-news__item:before {
+  			content: "» ";
+		}
+
+		.top-news__item:last-child {
+  			border-bottom: 1px solid #E0E0E0;
+		}
+
+		.top-news__item a {
+  			text-decoration: none;
+  			color: white;
+  			padding: 1.5em inherit;
+		}
+
+		.top-news__item a:hover,
+		.top-news__item a:active {
+  		text-decoration: underline;
+		}
+
+		.caja-conlas-cajas {
+			display: inline-block;
+			padding-top: 1em;
+		}
+
+		.subcontent {
+			width: 40%;
+			text-align: center;
+			background-color: #85C8E9;
+			padding-bottom: 10px;
+			padding-right: 10px;
+			padding-left: 10px;
+			padding-top: 10px;
+			box-sizing: border-box;
+			border-radius: 10px;
+			border-style: solid;
+			border-color: white;
+			border-width: 5px;
+			float: left;
+		}
+
+		.subcontent-dos {
+			width: 40%;
+			text-align: center;
+			background-color: #85C8E9;
+			padding-bottom: 10px;
+			padding-right: 10px;
+			padding-left: 10px;
+			padding-top: 10px;
+			box-sizing: border-box;
+			border-radius: 10px;
+			border-style: solid;
+			border-color: white;
+			border-width: 5px;
+			float: right;
+			margin-left: 150px;
+		}
+	
+		.encabezado {
+			font-size: 1.5em;
+			color: white;
+			text-align: center;
+			font-family: Times-New-Roman;
+		}
+
+		.main-logo {
+			border-style: solid;
+			border-color: white;
+			border-width: 10px;
+			cursor: pointer;
+			border-radius: 10px;
+			width: 80%;
+		}
+
+		.encabezado-subtitulo {
+			font-family: Times-New-Roman;
+			font-weight: bold;
+			color: white;
+			font-size: 2.5em;
+		}
+
+		.encabezado-slogan {
+			font-family: Times-New-Roman;
+			color: #563f46;
+			font-size: 1.5em;
+		}
+		
+		.sub-encabezado {
+			font-family: Times-New-Roman;
+			color: white;
+			font-size: 1em;
+		}
+
+		.content {
+			text-align: center;
+			width: 100%;
+		}
+
+		.Famous {
+			text-align: center;
+			font-family: Times-New-Roman;
+			color: white;
+			font-size: 1.5em;
+		}
+		
+		.frase-celebre {
+			text-align: justify;
+			padding-left: 20px;
+			padding-right: 20px;
+			font-family: Times-New-Roman;
+			color: #563f46;
+			font-size: 0.9em;
+		}
+
+		.negreado {
+			font-size: 1.05em;
+		}
+
+		.reference {
+			text-align: justify;
+			padding-left: 20px;
+			padding-right: 20px;
+			font-family: Times-New-Roman;
+			color: #563f46;
+			font-size: 0.9em;
+		}
+
+		.precios {
+			align-content: center;
+			padding-top: 2em;
+		}
+
+		.pricegraphs {
+  			float: left;
+  			width: 100%;
+  			padding-left: 0.005em;  		
+  			align-content: left;
+		}
+
+		.crypto__charts {
+  			display: block;
+  			font-weight: 10px;
+  			font-size: 2em;
+  			font-family: Times-New-Roman;
+  			color: white;
+  			padding-left: 0.01em
+		}
+
+		.btc__desc {
+  			display: block;
+  			font-size: 1.5em;
+  			font-family: Times-New-Roman;
+  			font-weight: 10px;
+  			color: white;
+  			padding-bottom: 2em;
+  			padding-left: 0.2em;
+		}
+
+		.crypto__today {
+  			width: 100%;
+  			vertical-align: middle;
+  			padding: 1em;
+  			padding-left: 6em;
+		}
+
+		.bitcoin__today__image {
+  			border-style: solid;
+			border-radius: 10px;
+  			border-color: #feb236;
+		}
+
+		.btc__today__temp {
+  			font-size: 2em;
+  			color: white;
+  			padding-left: 0.1em;
+		}
+
+		.btc__today__deg {
+  			font-size: 1em;
+  			color: white;
+		}
+
+		.charts__next {
+			padding-top: 3em;
+			padding-bottom: 1em;
+			padding-right: 5em;
+			padding-left: 4.4em;
+			align-content: center;
+		}
+
+		.charts__next__item {
+ 			display: inline-block;
+  			width: 25%;
+  			float: center;
+  			padding-right: 1em;
+  			padding-top: 1.5em;
+  			padding-left: 0.5em;
+  			padding-bottom: 2em;
+  			border-style: solid;
+  			border-width: 1px;
+  			border-color: white;
+  			border-radius: 10px;
+  			background-color: #878f99;
+		}
+
+		.titulo__lista__a {
+			padding-left: 0.8em;
+			font-size: 20px;
+			font-weight: normal;
+			padding-bottom: 0.5em;
+		}
+
+		.titulo__lista__b {
+			padding-left: 0.7em;
+			font-size: 20px;
+			font-weight: normal;
+			padding-bottom: 0.5em;
+		}
+
+		.titulo__lista__c {
+			padding-left: 0.5em;
+			font-size: 20px;
+			font-weight: normal;
+			padding-bottom: 0.5em;
+		}
+
+		.titulo__lista__d {
+			padding-left: 0.6em;
+			font-size: 20px;
+			font-weight: normal;
+			padding-bottom: 0.5em;
+		}
+
+		.titulo__lista__e {
+			padding-left: 0.6em;
+			font-size: 20px;
+			font-weight: normal;
+			padding-bottom: 0.5em;
+		}
+
+		.fact {
+			padding-left: 0.7em;
+			font-size: 20px;
+		}
+
+		.charts__next__item span {
+  			display: block;
+  			text-align: center;
+  			color: white;
+  			font-weight: bold;
+  			font-family: Times-New-Roman;
+		}
+
+		.charts__next__image__a {
+  			width: 65%;
+  			padding-top: 1em;
+  			padding-bottom: 1em;
+  			margin-left: 1.5em;
+		}
+
+		.charts__next__image__b {
+  			width: 65%;
+  			padding-top: 1em;
+  			padding-bottom: 1em;
+  			margin-left: 1.5em;
+		}
+
+		.charts__next__image__c {
+  			width: 65%;
+  			padding-top: 1em;
+  			padding-bottom: 1em;
+  			margin-left: 1.5em;
+		}
+
+		.charts__next__image__d {
+  			width: 65%;
+  			padding-top: 1em;
+  			padding-bottom: 1em;
+  			margin-left: 1.5em;
+		}
+
+		.charts__next__image__e {
+  			width: 65%;
+  			padding-top: 1em;
+  			padding-bottom: 1em;
+  			margin-left: 1.5em;
+		}
+
+		.recent-news {
+ 			clear: both;
+  			padding: 1em;
+		}
+
+		.news__title {
+			font-size: 2em;
+			padding-bottom: 0.5em;
+		}
+
+		.snippet {
+			clear: both;
+  			margin: 24px 0;
+		}
+
+		.snippet__thumbnail {
+  			width: 100px;
+  			float: left;
+  			margin-right: 1em;
+		}
+
+		.snippet__title {
+  			font-weight: 500;
+		}
+
+		.snippet__title a {
+  			text-decoration: none;
+  			color: white;
+  			padding: 1.5em inherit;
+  			float: left;
+		}
+
+		.snippet__title a:hover,
+		.snippet__title a:active {
+  			text-decoration: underline;
+		}
+
+		.lastn {
+			float: right;
+			text-align: justify;
+		}			
+
+		.tabla {
+			background-color: #F0FFF0;
+			box-sizing: border-box;
+			border-radius: 10px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			margin-bottom: 15px;
+			border-style: solid;
+			border-width: 5px;
+			border-color: #85C8E9;
+			width: 100%;
+		}
+
+		.coins {
+			width: 100%;
+		}
+
+		.coins__table {
+  			border-collapse: collapse;
+  			width: 100%;
+		}
+
+		.coins__table th,
+		.coins__table td {
+ 			padding: 1.2em; 
+		}
+
+		.coins__table th {
+  			color: #fff;
+  			font-weight: 400;
+  			background-color: #78909C;
+  			font-family: Times-New-Roman;
+  			font-size: 1.2em;
+		}
+
+		.coins__table tr:nth-child(odd) td {
+  			background-color: #fff;
+  			color: #618685;
+  			font-size: 1.2em;
+		}
+
+		.coins__table tr:nth-child(even) td {
+  			background-color: #eceff1;
+  			color: #618685;
+  			font-size: 1.2em;
+		}
+
+		.coins__table td.capital {
+  			font-weight: bold;
+  			color: #618685;
+  			font-size: 1.2em;
+		}
+
+		.coins__table td:nth-child(3),
+		.coins__table td:nth-child(1) {
+  			text-align: center;
+  			border-style: bold;
+		}
+
+		.coins__table td:nth-child(2),
+		.coins__table td:nth-child(6) {
+  			text-align: center;
+		}
+
+		.coins__table td:nth-child(4) {
+			text-align: right;
+		}
+
+		.coins__table td:nth-child(5) {
+			text-align: left;
+		}
+
+		.logomoneda {
+			height: 50px;
+			width: 50px;
+		}
+
+		footer a {
+  			text-decoration: none;
+  			font-family: Times-New-Roman;
+  			letter-spacing: 2px;
+  			font-size: 1.5em;
+  			color: white;
+  			width: 100%;
+  			padding: 1.5em;
+		}
+
+		footer {
+  			border-top: 1px solid #E0E0E0;
+  			padding: 1em;
+  			width: 95%;
+  			text-align: center;
+  			padding-left: 2em;
+		}
+
+		footer li {
+  			display: inline-block;
+  			margin: 0 1em;
+		}
+
+
+
+
+	

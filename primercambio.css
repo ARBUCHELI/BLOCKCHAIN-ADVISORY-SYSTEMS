@@ -1,0 +1,1211 @@
+@media screen and (max-width: 2646px) {
+	html {
+    	overflow-x: hidden; 
+    }
+    body {
+		overflow-x: hidden; 
+		overflow-y: scroll;
+    }
+    .box {
+		overflow-x: hidden; 
+	}
+}
+
+@media screen and (max-width: 1551px) {
+	.fact {
+		padding-left: 4em;
+	}
+}
+
+@media screen and (max-width: 1276px) {
+	html {
+    	overflow-x: hidden; 
+    	overflow-y: scroll; 
+    }
+    body {
+		overflow-x: hidden;
+		overflow-y: scroll; 
+    }
+    .charts__next__item {
+    	padding-left: 0.1em;
+    }
+    .charts__last__image {
+		padding-top: 0.1em;		
+    }
+    .fact {
+    	padding-left: 1em;
+    }
+}
+
+@media screen and (max-width: 1264px) {
+	.fact {
+		padding-left: 5.5em;
+		font-size: 1.5em;
+	}
+	.charts__next__image__a {
+  		width: 70%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1.5em;
+	}
+	.charts__next__image__b {
+  		width: 70%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1.5em;
+	}
+	.charts__next__image__c {
+  		width: 70%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1.5em;
+	}
+	.charts__next__image__d {
+  		width: 70%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1.5em;
+	}
+	.charts__next__image__e {
+  		width: 70%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1.5em;
+	}
+	.fact {
+		font-size: 18px;
+		padding-left: 1em;
+	}
+}
+
+@media screen and (max-width: 1244px) {
+	.charts__next {
+		padding-left: 4.9em;
+	}
+}
+
+
+@media screen and (max-width: 1227px) {
+	.fact {
+		padding-left: 1em;
+	}
+}
+
+@media screen and (max-width: 1218px) {
+	.fact {
+		padding-left: 1em;
+	}
+}
+
+@media screen and (max-width: 1205px) {
+	.charts__next {
+		padding-left: 8em;
+	}
+	.crypto__charts {
+		padding-left: 1.5em;
+	}
+	.btc__desc {
+		padding-left: 2.5em;
+	}
+	.crypto__today {
+		padding-left: 9.5em;
+	}
+	.charts__next__item {
+		padding-left: 1.5em;
+	}
+	.titulo__lista__a {
+		padding-left: 0em;
+	}
+	.titulo__lista__b {
+		padding-left: 0em;
+	}
+	.titulo__lista__c {
+		padding-left: 0em;
+	}
+	.titulo__lista__d {
+		padding-left: 0em;
+	}
+	.titulo__lista__e {
+		padding-left: 0em;
+	}
+	.fact {
+		padding-left: 0em;
+	}
+	.precios {
+		padding-right: 3em;
+	}
+}
+
+@media screen and (max-width: 1201px) {
+	.charts__next {
+		padding-left: 7em;
+	}
+}
+
+@media screen and (max-width: 1194) {
+	.charts__next__item {
+		padding-left: 5em;
+	}
+}
+
+
+@media screen and (max-width: 1154px) {
+	.charts__next__item {
+		font-size: 0.9em;
+	}
+}
+
+@media screen and (max-width: 1137px) {
+	.shoking {
+		height: 350px;
+	}
+
+	.description {
+		font-size: 1.01em;
+	}
+	html {
+    	overflow-x: hidden; 
+    	overflow-y: scroll; 
+    }
+    body {
+		overflow-x: hidden;
+		overflow-y: scroll; 
+    }
+    .charts__next__item {
+		font-size: 0.87em;
+	}
+}
+
+
+@media screen and (max-width: 1126px) {
+	.subcontent {
+		width: 100%;
+	}
+	.subcontent-dos {
+		width: 100%;
+	}
+	html {
+    	overflow-x: hidden; 
+    	overflow-y: scroll; 
+    }
+    body {
+		overflow-x: hidden;
+		overflow-y: scroll; 
+    }
+    .charts__next__item {
+    	padding-top: 1em;
+    }
+    .fact {
+    	padding-left: 0em;
+    }
+}
+
+@media screen and (max-width: 1031px) {
+	.charts__next__item {
+		font-size: 0.80em;
+	}
+}
+
+@media screen and (max-width: 1029px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 1026px) {
+	.charts__next__item {
+		font-size: 1em;
+		padding-left: 2em;
+		padding-top: 1em;
+	}
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 1003px) {
+	footer {
+		width: 93%;
+	}
+	html {
+    	overflow-x: hidden; 
+    	overflow-y: scroll; 
+    }
+    body {
+		overflow-x: hidden;
+		overflow-y: scroll; 
+    }
+}
+
+@media screen and (max-width: 1000px) {
+	.nav__item {
+		font-size: 1.2em;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	.charts__next__image {
+		padding-left: 1em;
+	}
+}
+
+@media screen and (max-width: 942px) {
+	.charts__next__item {
+		padding-left: 2em;
+	}
+}
+
+@media screen and (max-width: 935px) {
+	.charts__next__item {
+		width: 30em;
+	}
+	.charts__next {
+		padding-left: 8em;
+	}
+	.titulo__lista__a {
+		font-size: 2em;
+	}
+	.titulo__lista__b {
+		font-size: 2em;
+	}
+	.titulo__lista__c {
+		font-size: 2em;
+	}
+	.titulo__lista__d {
+		font-size: 2em;
+	}
+	.titulo__lista__e {
+		font-size: 2em;
+	}
+	.fact {
+		font-size: 1.5em;
+	}
+}
+
+@media screen and (max-width: 921px) {
+	.charts__next {
+		padding-left: 8em;
+	}
+	.charts__next__image__a {
+  		width: 65%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1em;
+	}
+	.charts__next__image__b {
+  		width: 65%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1em;
+	}
+	.charts__next__image__c {
+  		width: 65%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1em;
+	}
+	.charts__next__image__d {
+  		width: 65%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1em;
+	}
+	.charts__next__image__e {
+  		width: 65%;
+  		padding-top: 1em;
+  		padding-bottom: 1em;
+  		margin-left: 1em;
+	}
+}
+
+@media screen and (max-width: 904px) {
+	.fact {
+		font-weight: lighter;
+	}
+}
+
+@media screen and (max-width: 895px) {
+	.coins__table th {
+		font-size: 1em;
+	}
+	.coins__table tr:nth-child(odd) td {
+		font-size: 0.7em;
+	}
+	.coins__table tr:nth-child(even) td {
+		font-size: 0.7em;
+	}
+}
+
+@media screen and (max-width: 877px) {
+	.charts__next__item {
+		width: 80%;
+	}
+	.fact {
+		font-size: 1.5em;
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 825px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 819px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 811px) {
+	.shoking {
+		height: 410px;
+	}
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 809px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 803px) {
+	footer a {
+		font-size: 1em;
+	}
+	.crypto__today {
+		font-size: 0.9em;
+		padding-left: 10em;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.crypto__today {
+		padding-left: 10em;
+	}
+}
+
+@media screen and (max-width: 794px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 791px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 784px) {
+	.nav a {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 789px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 787px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 776px) {
+	.shoking {
+		height: 450px;
+	}
+}
+
+@media screen and (max-width: 774px) {
+	.nav__item {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 744px) {
+	footer a {
+		font-size: 1em;
+	}
+	footer {
+		width: 90%;
+	}
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 730px) {
+	.charts__next__item {
+		padding-top: 2em;
+	}
+	.fact {
+		padding-left: 0em;
+	}
+	.titulo__lista__a {
+		font-size: 1.8em;
+	}
+	.titulo__lista__b {
+		font-size: 1.8em;
+	}
+	.titulo__lista__c {
+		font-size: 1.8em;
+	}
+	.titulo__lista__d {
+		font-size: 1.8em;
+	}
+	.titulo__lista__e {
+		font-size: 1.8em;
+	}
+	.crypto__today {
+		font-size: 0.8em;
+		padding-left: 10.5em;
+	}
+}
+
+@media screen and (max-width: 716px) {
+	.charts__next__image__a {
+		width: 70%;
+		margin-left: 0.5em;
+	}
+	.charts__next__image__b {
+		width: 70%;
+		margin-left: 0.5em;
+	}
+	.charts__next__image__c {
+		width: 70%;
+		margin-left: 0.5em;
+	}
+	.charts__next__image__d {
+		width: 70%;
+		margin-left: 0.5em;
+	}
+	.charts__next__image__e {
+		width: 70%;
+		margin-left: 0.5em;
+	}
+}
+
+@media screen and (max-width: 684px) {
+	.nav__item {
+		font-size: 0.95em;
+	}
+}
+
+@media screen and (max-width: 672px) {
+	.nav a {
+		font-size: 0.95em;
+	}
+}
+
+@media screen and (max-width: 659px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 655px) {
+	.fact {
+		font-size: 1.5em;
+	}
+	.crypto__today {
+		font-size: 0.7em;
+		padding-left: 11em;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.nav__item {
+		font-size: 0.9em;
+	}
+}
+
+@media screen and (max-width: 633px) {
+	.charts__next__image__a {
+		width: 80%
+	}
+	.charts__next__image__b {
+		width: 80%
+	}
+	.charts__next__image__c {
+		width: 80%
+	}
+	.charts__next__image__d {
+		width: 80%
+	}
+	.charts__next__image__e {
+		width: 80%
+	}
+}
+
+@media screen and (max-width: 623px) {
+	.shoking {
+		height: 460px;
+	}
+}
+
+@media screen and (max-width: 621px) {
+	footer a {
+		font-size: 0.9em;
+	}
+}
+
+@media screen and (max-width: 618em) {
+	.nav__item {
+		font-size: 0.85em;
+	}
+}
+
+@media screen and (max-width: 617px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 610px) {
+	.crypto__today {
+		font-size: 0.65em;
+		padding-left: 11.5em;
+	}
+}
+
+@media screen and (max-width: 607px) {
+	.shoking {
+		height: 500px;
+	}
+	.crypto__today {
+		font-size: 0.6em;
+		padding-left: 12em;
+	}
+}
+
+@media screen and (max-width: 597px) {
+	.nav__item {
+		font-size: 0.8em;
+	}
+}
+
+@media screen and (max-width: 580px) {
+	.nav a {
+		font-size: 0.7em;
+	}
+	footer li {
+		display: block;
+	}
+	.nav__item {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 578px) {
+	.nav__item {
+		font-size: 1.05em;
+	}
+}
+
+@media screen and (max-width: 572px) {
+	.coins__table th {
+		font-size: 0.8em;
+	}
+	.coins__table tr:nth-child(odd) td {
+		font-size: 0.5em;
+	}
+	.coins__table tr:nth-child(even) td {
+		font-size: 0.5em;
+	}
+}
+
+@media screen and (max-width: 564px) {
+	.nav__item {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.fact {
+		font-size: 1.2em;
+	}
+	.titulo__lista__a {
+		font-size: 1.5em;
+	}
+	.titulo__lista__b {
+		font-size: 1.5em;
+	}
+	.titulo__lista__c {
+		font-size: 1.5em;
+	}
+	.titulo__lista__d {
+		font-size: 1.5em;
+	}
+	.titulo__lista__e {
+		font-size: 1.5em;
+	}
+	.crypto__today {
+		font-size: 0.5em;
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 537px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 530px) {
+	.nav a {
+		font-size: 0.6em;
+	}
+}
+
+@media screen and (max-width: 526px) {
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 514px) {
+	.top-news {
+		padding-bottom: 1em;
+	}
+	.fact {
+		padding-left: 0em;
+	}
+}
+
+
+@media screen and (max-width: 507px) {
+	.shoking {
+		height: 550px;
+	}
+}
+
+@media screen and (max-width: 505px) {
+	.top-news {
+		padding-bottom: 2em;
+	}
+	.titulo__lista__a {
+		font-size: 1.3em;
+		padding-right: 0.5em;
+	}
+	.titulo__lista__b {
+		font-size: 1.3em;
+		padding-right: 0.5em;
+	}
+	.titulo__lista__c {
+		font-size: 1.3em;
+		padding-right: 0.5em;
+	}
+	.titulo__lista__d {
+		font-size: 1.3em;
+		padding-right: 0.5em;
+	}
+	.titulo__lista__e {
+		font-size: 1.3em;
+		padding-right: 0.5em;
+	}
+}
+
+@media screen and (max-width: 502px) {
+	footer {
+		width: 85%;
+	}
+	.precios {
+		align-content: center;
+	}
+}
+
+@media screen and (max-width: 489px) {
+	.fact {
+		padding-left: 0em;
+	}
+	.nav__item {
+		display: block;
+		padding: 0;
+		font-size: 2em;
+		text-align: left;
+		padding-bottom: 1em;
+	}
+	footer li {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 478px) {
+	.charts__next__image__a {
+		height: 80px;
+		width: 150px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__b {
+		height: 80px;
+		width: 150px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__c {
+		height: 80px;
+		width: 150px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__d {
+		height: 80px;
+		width: 150px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__e {
+		height: 80px;
+		width: 150px;
+		padding-right: 0.5em;
+	}
+	.fact {
+		padding-right: 0.5em;
+	}
+}
+
+@media screen and (max-width: 473px) {
+	.charts__next__image__a {
+		height: 70px;
+		width: 140px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__b {
+		height: 70px;
+		width: 140px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__c {
+		height: 70px;
+		width: 140px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__d {
+		height: 70px;
+		width: 140px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__e {
+		height: 70px;
+		width: 140px;
+		padding-right: 0.5em;
+	}
+	.fact {
+		padding-right: 0.5em;
+	}
+}
+
+@media screen and (max-width: 459px) {
+	.charts__next__image__a {
+		height: 60px;
+		width: 130px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__b {
+		height: 60px;
+		width: 130px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__c {
+		height: 60px;
+		width: 130px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__d {
+		height: 60px;
+		width: 130px;
+		padding-right: 0.5em;
+	}
+	.charts__next__image__e {
+		height: 60px;
+		width: 130px;
+		padding-right: 0.5em;
+	}
+	.fact {
+		padding-right: 0.5em;
+	}
+	.charts__next {
+		padding-left: 8.5em;
+	}
+	.charts__next__item {
+		padding-left: 1.4em;
+	}
+	.charts__next__image__a {
+		padding-left: 0em;
+	}
+}
+
+@media screen and (max-width: 448px) {
+	.charts__next__item {
+		padding-left: 1.4em;
+	}
+	.charts__next__image__a {
+		height: 60px;
+		width: 130px;
+		padding-right: 0em;
+	}
+	.charts__next__image__b {
+		height: 60px;
+		width: 130px;
+		padding-right: 0em;
+	}
+	.charts__next__image__c {
+		height: 60px;
+		width: 130px;
+		padding-right: 0em;
+	}
+	.charts__next__image__d {
+		height: 60px;
+		width: 130px;
+		padding-right: 0em;
+	}
+	.charts__next__image__e {
+		height: 60px;
+		width: 130px;
+		padding-right: 0em;
+	}
+}
+
+@media screen and (max-width: 438px) {
+	.coins__table th {
+		font-size: 0.5em;
+	}
+	.coins__table tr:nth-child(odd) td {
+		font-size: 0.2em;
+	}
+	.coins__table tr:nth-child(even) td {
+		font-size: 0.2em;
+	}
+}
+
+@media screen and (max-width: 433px) {
+	.shoking {
+		height: 560px;
+	}
+}
+
+@media screen and (max-width: 431px) {
+	.shoking {
+		height: 610px;
+	}
+}
+
+@media screen and (max-width: 430px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 429px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next {
+		padding-left: 6em;
+	}
+	.charts__next__item {
+		width: 95%;
+	}
+}
+
+@media screen and (max-width: 424px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 423px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 422px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 419px) {
+	.shoking {
+		height: 650px;
+	}
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 416px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 411px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.btc__today__temp {
+		font-size: 1.5em;
+	}
+}
+
+@media screen and (max-width: 396px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 391px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 388px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 387px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next__item {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 386px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 385px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next__item {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 383px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 382px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next__item {
+		width: 100%;
+		padding-left: 1.5em;
+	}
+}
+
+@media screen and (max-width: 380px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next__item {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 379px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 378px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next__item {
+		width: 90%;
+		padding-left: 2em;
+	}
+	.charts__next {
+		padding-left: 5em;
+	}
+}
+
+@media screen and (max-width: 377px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 376px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+	.charts__next__item {
+		width: 90%;
+		padding-left: 2em;
+	}
+	.charts__next {
+		padding-left: 5em;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 372px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 371px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 370px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 369px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 367px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 366px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 364px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 362px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 361px) {
+	.shoking {
+		height: 690px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.crypto__today {
+		padding-left: 13em;
+	}
+}
+
+@media screen and (max-width: 358px) {
+	.shoking {
+		height: 700px;
+	}
+	footer {
+		width: 80%;
+	}
+}
+
+@media screen and (max-width: 342px) {
+	.shoking {
+		height: 710px;
+	}
+}
+
+@media screen and (max-width: 340px) {
+	.shoking {
+		height: 770px;
+	}
+}
+
+@media screen and (max-width: 336px) {
+	.coins__table th {
+		font-size: 7px;
+	}
+	.coins__table tr:nth-child(odd) td {
+		font-size: 3px;
+	}
+	.coins__table tr:nth-child(even) td {
+		font-size: 3px;
+	}
+	.logomoneda {
+		width: 10px;
+		height: 10px;
+	}
+}
+
+@media screen and (max-width: 332px) {
+	.shoking {
+		height: 850px;
+	}
+}
+
+@media screen and (max-width: 330px) {
+	.crypto__today {
+		padding-left: 12em;
+	}
+}
+
+@media screen and (max-width: 322px) {
+	.crypto__today {
+		padding-left: 11.8em;
+	}
+}
+
+@media screen and (max-width: 321px) {
+	.crypto__today {
+		padding-left: 11.7em;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.crypto__today {
+		padding-left: 11.6em;
+	}
+}
+
+@media screen and (max-width: 319px) {
+	.crypto__today {
+		padding-left: 11.5em;
+	}
+}
+
+
+
+
+
+
+
+
+
+
