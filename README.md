@@ -9,6 +9,7 @@ This is a web desing project that uses HTML and responsive CSS.
 3) Unzip the folder called "PICTURES" and copy the pictures in the folder with the html and css files.
 4) Open the index.html file with Google Chrome to see the website.
 
+![Image description](link-to-image)
 
 Author: Andrés R. Bucheli
 
