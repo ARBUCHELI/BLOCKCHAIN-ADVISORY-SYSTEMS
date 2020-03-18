@@ -4,4 +4,12 @@
 
 This is a web desing project that uses HTML and responsive CSS.
 
-Save the index.html file and the .css files in the same directory. Unzip the PICTURES folder in the same directory to see the website.
+1) Donwload and unzip the folder with the repository files.
+2) You will find a zipped folder called "PICTURES" within the folder with the repository files.
+3) Unzip the content of the folder called "PICTURES" in the same folder with the repository files. (Don't unzip the content in an indiviual folder).
+4) Open the index.html file with Google Chrome to see the website.
+
+
+Author: Andrés R. Bucheli
+
+
