@@ -10,6 +10,7 @@ This is a web desing project that uses HTML and responsive CSS.
 4) Open the index.html file with Google Chrome to see the website.
 
 ![Responsive Website](https://github.com/anferebu/BLOCKCHAIN-ADVISORY-SYSTEMS/blob/master/ResponsiveSite.jpg)
+![Responsive Website 1](https://github.com/anferebu/BLOCKCHAIN-ADVISORY-SYSTEMS/blob/master/ResponsiveSite1.jpg)
 
 Author: Andrés R. Bucheli
 
