@@ -155,23 +155,25 @@
   			content: "» "; /*Adds >> Before each of one of the items*/
 		}
 
-		.top-news__item:last-child {
+		.top-news__item:last-child { /*Search Results
+Featured snippet from the web
+The :last-child selector allows you to target the last element directly inside its containing element. It is defined in the CSS Selectors Level 3 spec as a “structural pseudo-class”, meaning it is used to style content based on its relationship with parent and sibling content*/
   			border-bottom: 1px solid #E0E0E0;
 		}
 
 		.top-news__item a {
-  			text-decoration: none;
+  			text-decoration: none; /*The items don't have any decoration before hovering witht the mouse*/
   			color: white;
   			padding: 1.5em inherit;
 		}
 
 		.top-news__item a:hover,
-		.top-news__item a:active {
+		.top-news__item a:active { /*Used to select and style an active link*/
   		text-decoration: underline;
 		}
 
 		.caja-conlas-cajas {
-			display: inline-block;
+			display: inline-block; /*Display inline block allows to set a width and a height on the element*/
 			padding-top: 1em;
 		}
 
