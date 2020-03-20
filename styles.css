@@ -2,17 +2,17 @@
     		overflow-x: hidden; } /*To disable horizontal scrolling*/
 
 		body {
-			background-color: #5F9EA0;
+			background-color: #5F9EA0; /*Sets the color of the body to cadete blue*/
 		}
 
-		.content {
+		.content { /*Sets all the content of the page to use all the viewport and to flex and wrap*/
 			width: 100%;
 			display: flex;
 			flex-wrap: wrap;
 		}
 
 		.box {
-			width: 100%;
+			width: 100%; /*Sets the container of all the two boxes to use all the viewport*/
 		}
 
 		.caja-superior {
