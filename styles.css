@@ -16,8 +16,8 @@
 		}
 
 		.caja-superior {
-			background-color: #F0FFF0;
-			box-sizing: border-box;
+			background-color: #F0FFF0; /*Sets the color of the header to Honeydew*/
+			box-sizing: border-box; /*The box-sizing property allows us to include the padding and border in an element's total width and height.*/
 			border-radius: 10px;
 			padding-top: 10px;
 			padding-bottom: 10px;
