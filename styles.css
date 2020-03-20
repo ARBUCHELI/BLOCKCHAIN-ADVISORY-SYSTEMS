@@ -71,31 +71,31 @@
   			line-height: 24px;
   			padding: 24px;
   			text-transform: uppercase;
-  			cursor: pointer; /*Changes the appearence of the cursor when hovering over the image*/
+  			cursor: pointer; /*Changes the appearence of the cursor when hovering over the items*/
   			font-size: 1.5em;
 		}
 
-		.nav a {
+		.nav a { /*Properties of the items when unclicked*/
   			text-decoration: none;
   			color: white;
   			font-weight: bold;
   			font-size: 1em;
 		}
 
-		.nav a:hover {
+		.nav a:hover { /*Properties of the items when clicked*/
   			text-decoration: underline;
-  			color: #212121;
+  			color: #212121; /*Black color*/
   			padding: 1.5em;
   			cursor: pointer;
 		}
 
 		.shoking {
-  			float: left;
+  			float: left; /*The float Property. left - The element floats to the left of its container. right*/
   			width: 100%;
   			position: relative;
   			background-image: url("technology.jpg");
   			border-radius: 10px;
-  			background-size: cover;
+  			background-size: cover; /*A background image can be set to cover the entire element's background area using the cover keyword*/
   			height: 300px;
 		}
 
@@ -103,7 +103,7 @@
   			box-sizing: border-box;
   			background-color: #000;
   			background-color: rgba(0, 0, 0, 0.7);
-  			position: absolute;
+  			position: absolute; /*An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.*/
   			border-radius: 10px;
   			bottom: 0;
   			height: 40%;
@@ -112,7 +112,7 @@
   			padding: 1em;
 		}
 
-		.top-news {
+		.top-news { /*Properties of the top-news section*/
   			float: right;
   			width: 100%;
   			height: 300px;
@@ -121,7 +121,7 @@
   			font-size: 1em;
 		}
 
-		.news__title {
+		.news__title { /*Properties of the top-news Title's section*/
   			font-weight: bold;
   			border-bottom: 1px solid #E0E0E0;
   			line-height: 24px;
@@ -129,7 +129,7 @@
   			color: #ffcc5c;
 		}
 
-		.news__more {
+		.news__more { /*Properties of the +more subtitle*/
   			float: right;
   			font-size: .8em;
   			color: #ffcc5c;
