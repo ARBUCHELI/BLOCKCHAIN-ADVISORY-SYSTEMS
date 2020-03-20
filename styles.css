@@ -152,7 +152,7 @@
 		}
 
 		.top-news__item:before { /*In CSS, ::before creates a pseudo-element that is the first child of the selected element. It is often used to add cosmetic content to an element with the content property. It is inline by default.*/
-  			content: "» "; /*Adds >> Before each of the elements.
+  			content: "» "; /*Adds >> Before each of one of the items*/
 		}
 
 		.top-news__item:last-child {
