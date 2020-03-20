@@ -27,25 +27,25 @@
 			border-color: #85C8E9;
 		}
 
-		#first-header {
+		#first-header { /*Properties of the title of the page*/
 			font-family: Times-New-Roman;
 			text-align: center;
 			color: #563f46;
 		}
 
-		#second-header{
+		#second-header{ /*Properties of the subtitle of the page*/
 			color: #008080;
 			font-family: Times-New-Roman;
 			font-size: 3em;
 			text-align: center;
 		}
 
-		.header__logo {
+		.header__logo { /*Properties of the logo of the page*/
   			height: 120px;
   			width: 150px;
 		}
 
-		.navegador {
+		.navegador { /*The CSS flex-wrap property is used to specify whether flex items are forced into a single line or wrapped onto multiple lines.*/
 			display: flex;
 			flex-wrap: wrap;
 			padding-left: 1em;
