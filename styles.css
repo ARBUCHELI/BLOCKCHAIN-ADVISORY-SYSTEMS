@@ -139,12 +139,12 @@
 		}
 
 		ul {
-			list-style: none;
+			list-style: none; /*Eliminates the bullet points of the list*/
   			padding: 0;
   			margin: 0;
 		}
 
-		.top-news__item {
+		.top-news__item { /*Propertie of the items of the list*/
  		 	border-bottom: 1px solid #E0E0E0;
   			padding: 1em 0;
   			line-height: 19.2px;
