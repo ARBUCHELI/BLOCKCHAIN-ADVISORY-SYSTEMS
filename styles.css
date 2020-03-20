@@ -1,5 +1,5 @@
 		html {
-    		overflow-x: hidden; }
+    		overflow-x: hidden; } /*To disable horizontal scrolling*/
 
 		body {
 			background-color: #5F9EA0;
