@@ -51,19 +51,19 @@
 			padding-left: 1em;
 		}
 
-		.nav {
+		.nav { /*Properties of the nav */
   			width: 100%;
   			margin-left: auto;
   			margin-right: auto;
 		}
 
-		.nav__list {
+		.nav__list { /*Properties of the nav list*/
  			width: 100%;
   			padding: 0;
   			margin: 0;
 		}
 
-		.nav__item {
+		.nav__item { /*Properties of the nav items*/
   			box-sizing: border-box;
  			display: inline-block;
   			width: 24%;
@@ -71,7 +71,7 @@
   			line-height: 24px;
   			padding: 24px;
   			text-transform: uppercase;
-  			cursor: pointer;
+  			cursor: pointer; /*Changes the appearence of the cursor when hovering over the image*/
   			font-size: 1.5em;
 		}
 
