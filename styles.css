@@ -439,49 +439,49 @@ The :last-child selector allows you to target the last element directly inside i
   			margin-left: 1.5em;
 		}
 
-		.recent-news {
- 			clear: both;
+		.recent-news { /*Properties of the container with the recent news*/
+ 			clear: both; /*Do not allow floating elements on the left or the right side of a specified <p> element:*/
   			padding: 1em;
 		}
 
-		.news__title {
+		.news__title { /*Title of the recent news section*/
 			font-size: 2em;
 			padding-bottom: 0.5em;
 		}
 
-		.snippet {
+		.snippet { /*Elements of the list*/
 			clear: both;
   			margin: 24px 0;
 		}
 
-		.snippet__thumbnail {
+		.snippet__thumbnail { /*Pictures of the elements of the list*/
   			width: 100px;
   			float: left;
   			margin-right: 1em;
 		}
 
-		.snippet__title {
+		.snippet__title { /*Linkable title*/
   			font-weight: 500;
 		}
 
-		.snippet__title a {
+		.snippet__title a { /*Styling the linkable title*/
   			text-decoration: none;
   			color: white;
   			padding: 1.5em inherit;
   			float: left;
 		}
 
-		.snippet__title a:hover,
+		.snippet__title a:hover, /*Styling the linkable titles when hovering with mouse*/
 		.snippet__title a:active {
   			text-decoration: underline;
 		}
 
-		.lastn {
+		.lastn { /*Paragrah of the news*/
 			float: right;
 			text-align: justify;
 		}			
 
-		.tabla {
+		.tabla { /*Table with characteristics of the coin*/
 			background-color: #F0FFF0;
 			box-sizing: border-box;
 			border-radius: 10px;
@@ -494,12 +494,12 @@ The :last-child selector allows you to target the last element directly inside i
 			width: 100%;
 		}
 
-		.coins {
+		.coins { /*Characteristics of the container*/
 			width: 100%;
 		}
 
-		.coins__table {
-  			border-collapse: collapse;
+		.coins__table { /*Table*/
+  			border-collapse: collapse; /*The border-collapse property sets whether table borders should collapse into a single border or be separated as in standard HTML.*/
   			width: 100%;
 		}
 
@@ -511,11 +511,11 @@ The :last-child selector allows you to target the last element directly inside i
 		.coins__table th {
   			color: #fff;
   			font-weight: 400;
-  			background-color: #78909C;
+  			background-color: #78909C; /*Color of the superior bar that contains the titles*/
   			font-family: Times-New-Roman;
   			font-size: 1.2em;
 		}
-
+/*The next two snippets conmute the color between white and light grey in the rows*/
 		.coins__table tr:nth-child(odd) td {
   			background-color: #fff;
   			color: #618685;
@@ -528,12 +528,12 @@ The :last-child selector allows you to target the last element directly inside i
   			font-size: 1.2em;
 		}
 
-		.coins__table td.capital {
+		.coins__table td.capital { /*To access to market cap and volume*/
   			font-weight: bold;
   			color: #618685;
   			font-size: 1.2em;
 		}
-
+/*The next snippets style the content in the rows*/
 		.coins__table td:nth-child(3),
 		.coins__table td:nth-child(1) {
   			text-align: center;
@@ -553,12 +553,12 @@ The :last-child selector allows you to target the last element directly inside i
 			text-align: left;
 		}
 
-		.logomoneda {
+		.logomoneda { /*logo of crypto*/
 			height: 50px;
 			width: 50px;
 		}
 
-		footer a {
+footer a { /*Footer properties*/
   			text-decoration: none;
   			font-family: Times-New-Roman;
   			letter-spacing: 2px;
