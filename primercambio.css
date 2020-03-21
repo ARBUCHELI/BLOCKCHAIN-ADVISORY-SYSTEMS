@@ -1,10 +1,20 @@
+/*IN THIS FILE WE SEE BASICALLY MEDIA QUERIES AND THE USE OF SOME CSS PROPERTIES:
+- overflow: The overflow property specifies what should happen if content overflows an element's box.
+- padding: Used to generate space around an element's content.
+- font-size: Defines the size of the text.
+- width: Specifies the width of the content area.
+- margin: Specifies margins.
+- height: Specifies the height of the content area.
+- align-content: Is a sub-property of the Flexible Box Layout module. It helps to align a flex container's lines within it when there is extra space in the cross-axis, similar to justify.
+*/
+
 @media screen and (max-width: 2646px) {
 	html {
-    	overflow-x: hidden; 
+    	overflow-x: hidden; /*Prevents horizontal scrolling for all the content*/
     }
     body {
 		overflow-x: hidden; 
-		overflow-y: scroll;
+		overflow-y: scroll; /*Adds vertical scroll*/
     }
     .box {
 		overflow-x: hidden; 
@@ -164,7 +174,7 @@
 		font-size: 1.01em;
 	}
 	html {
-    	overflow-x: hidden; 
+    	overflow-x: hidden; /*It is used to clip the content and no scrolling mechanism is provided*/
     	overflow-y: scroll; 
     }
     body {
@@ -728,7 +738,7 @@
 		padding-left: 0em;
 	}
 	.nav__item {
-		display: block;
+		display: block; /*Displays an element as a block element. It starts on a new line, and takes up the whole width.*/
 		padding: 0;
 		font-size: 2em;
 		text-align: left;
