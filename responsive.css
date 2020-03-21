@@ -1,4 +1,4 @@
-@media screen and (max-width: 1126px) {
+@media screen and (max-width: 1126px) { /*Allows the header to wrap items into multiple lines using flex and wrap*/
 	.caja-superior {
 		display: flex;
 		flex-wrap: wrap;
