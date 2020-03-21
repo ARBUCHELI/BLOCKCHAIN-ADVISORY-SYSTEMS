@@ -177,10 +177,10 @@ The :last-child selector allows you to target the last element directly inside i
 			padding-top: 1em;
 		}
 
-		.subcontent {
+		.subcontent { /*Lef blue box*/
 			width: 40%;
 			text-align: center;
-			background-color: #85C8E9;
+			background-color: #85C8E9; /*Blue color of the box*/
 			padding-bottom: 10px;
 			padding-right: 10px;
 			padding-left: 10px;
@@ -188,7 +188,7 @@ The :last-child selector allows you to target the last element directly inside i
 			box-sizing: border-box;
 			border-radius: 10px;
 			border-style: solid;
-			border-color: white;
+			border-color: white; /*Color of the border*/
 			border-width: 5px;
 			float: left;
 		}
@@ -196,7 +196,7 @@ The :last-child selector allows you to target the last element directly inside i
 		.subcontent-dos {
 			width: 40%;
 			text-align: center;
-			background-color: #85C8E9;
+			background-color: #85C8E9; /*Blue color of the box*/
 			padding-bottom: 10px;
 			padding-right: 10px;
 			padding-left: 10px;
@@ -204,20 +204,20 @@ The :last-child selector allows you to target the last element directly inside i
 			box-sizing: border-box;
 			border-radius: 10px;
 			border-style: solid;
-			border-color: white;
+			border-color: white; /*Color of the border*/
 			border-width: 5px;
 			float: right;
 			margin-left: 150px;
 		}
 	
-		.encabezado {
+		.encabezado { /*Clickable link*/
 			font-size: 1.5em;
 			color: white;
 			text-align: center;
 			font-family: Times-New-Roman;
 		}
 
-		.main-logo {
+		.main-logo { /*Properties of the logo images inside the boxes*/
 			border-style: solid;
 			border-color: white;
 			border-width: 10px;
@@ -226,20 +226,20 @@ The :last-child selector allows you to target the last element directly inside i
 			width: 80%;
 		}
 
-		.encabezado-subtitulo {
+		.encabezado-subtitulo { /*Properties of the subtitle inside the box*/
 			font-family: Times-New-Roman;
 			font-weight: bold;
 			color: white;
 			font-size: 2.5em;
 		}
 
-		.encabezado-slogan {
+		.encabezado-slogan { /*Properties of the slogan*/
 			font-family: Times-New-Roman;
 			color: #563f46;
 			font-size: 1.5em;
 		}
 		
-		.sub-encabezado {
+		.sub-encabezado { /*Properties of the paragraph*/
 			font-family: Times-New-Roman;
 			color: white;
 			font-size: 1em;
@@ -250,14 +250,13 @@ The :last-child selector allows you to target the last element directly inside i
 			width: 100%;
 		}
 
-		.Famous {
+		.Famous { /*Title of the small articles inside the boxes*/
 			text-align: center;
 			font-family: Times-New-Roman;
 			color: white;
 			font-size: 1.5em;
 		}
-		
-		.frase-celebre {
+		.frase-celebre { /*Important points about Bitcoin*/                                                                                                                                                                                                                                                                                                            
 			text-align: justify;
 			padding-left: 20px;
 			padding-right: 20px;
@@ -266,11 +265,11 @@ The :last-child selector allows you to target the last element directly inside i
 			font-size: 0.9em;
 		}
 
-		.negreado {
+		.negreado { /*highlights*/
 			font-size: 1.05em;
 		}
 
-		.reference {
+		.reference { /*Reference at the bottom
 			text-align: justify;
 			padding-left: 20px;
 			padding-right: 20px;
@@ -279,19 +278,19 @@ The :last-child selector allows you to target the last element directly inside i
 			font-size: 0.9em;
 		}
 
-		.precios {
+		.precios { /*Container with a matrix of criptocurrencyes*/
 			align-content: center;
 			padding-top: 2em;
 		}
 
-		.pricegraphs {
+		.pricegraphs { /*Header of the matrix with prices*/
   			float: left;
   			width: 100%;
   			padding-left: 0.005em;  		
   			align-content: left;
 		}
 
-		.crypto__charts {
+		.crypto__charts { /*Title of the matri with graphs*/
   			display: block;
   			font-weight: 10px;
   			font-size: 2em;
@@ -300,7 +299,7 @@ The :last-child selector allows you to target the last element directly inside i
   			padding-left: 0.01em
 		}
 
-		.btc__desc {
+		.btc__desc { /*Subtitle*/
   			display: block;
   			font-size: 1.5em;
   			font-family: Times-New-Roman;
@@ -310,31 +309,31 @@ The :last-child selector allows you to target the last element directly inside i
   			padding-left: 0.2em;
 		}
 
-		.crypto__today {
+		.crypto__today { /*Container of image and subtitle*/
   			width: 100%;
   			vertical-align: middle;
   			padding: 1em;
   			padding-left: 6em;
 		}
 
-		.bitcoin__today__image {
+		.bitcoin__today__image { /*Bitcoin image properties*/
   			border-style: solid;
 			border-radius: 10px;
   			border-color: #feb236;
 		}
 
-		.btc__today__temp {
+		.btc__today__temp { /*Subtitle span*/
   			font-size: 2em;
   			color: white;
   			padding-left: 0.1em;
 		}
 
-		.btc__today__deg {
+		.btc__today__deg { /*Subtitle span*/
   			font-size: 1em;
   			color: white;
 		}
 
-		.charts__next {
+		.charts__next { /*Properties of the list items*/
 			padding-top: 3em;
 			padding-bottom: 1em;
 			padding-right: 5em;
@@ -342,7 +341,7 @@ The :last-child selector allows you to target the last element directly inside i
 			align-content: center;
 		}
 
-		.charts__next__item {
+		.charts__next__item { /*Properties of each box list item*/
  			display: inline-block;
   			width: 25%;
   			float: center;
@@ -357,47 +356,47 @@ The :last-child selector allows you to target the last element directly inside i
   			background-color: #878f99;
 		}
 
-		.titulo__lista__a {
+		.titulo__lista__a { /*Title of box item*/
 			padding-left: 0.8em;
 			font-size: 20px;
 			font-weight: normal;
 			padding-bottom: 0.5em;
 		}
 
-		.titulo__lista__b {
+		.titulo__lista__b { /*Title of box item*/
 			padding-left: 0.7em;
 			font-size: 20px;
 			font-weight: normal;
 			padding-bottom: 0.5em;
 		}
 
-		.titulo__lista__c {
+		.titulo__lista__c { /*Title of box item*/
 			padding-left: 0.5em;
 			font-size: 20px;
 			font-weight: normal;
 			padding-bottom: 0.5em;
 		}
 
-		.titulo__lista__d {
+		.titulo__lista__d { /*Title of box item*/
 			padding-left: 0.6em;
 			font-size: 20px;
 			font-weight: normal;
 			padding-bottom: 0.5em;
 		}
 
-		.titulo__lista__e {
+		.titulo__lista__e { /*Title of box item*/
 			padding-left: 0.6em;
 			font-size: 20px;
 			font-weight: normal;
 			padding-bottom: 0.5em;
 		}
 
-		.fact {
+		.fact { /*Message with the Change*/
 			padding-left: 0.7em;
 			font-size: 20px;
 		}
 
-		.charts__next__item span {
+		.charts__next__item span { /*Styles the titles of the boxes*/
   			display: block;
   			text-align: center;
   			color: white;
@@ -405,35 +404,35 @@ The :last-child selector allows you to target the last element directly inside i
   			font-family: Times-New-Roman;
 		}
 
-		.charts__next__image__a {
+		.charts__next__image__a { /*Image of the box*/
   			width: 65%;
   			padding-top: 1em;
   			padding-bottom: 1em;
   			margin-left: 1.5em;
 		}
 
-		.charts__next__image__b {
+		.charts__next__image__b { /*Image of the box*/
   			width: 65%;
   			padding-top: 1em;
   			padding-bottom: 1em;
   			margin-left: 1.5em;
 		}
 
-		.charts__next__image__c {
+		.charts__next__image__c { /*Image of the box*/
   			width: 65%;
   			padding-top: 1em;
   			padding-bottom: 1em;
   			margin-left: 1.5em;
 		}
 
-		.charts__next__image__d {
+		.charts__next__image__d { /*Image of the box*/
   			width: 65%;
   			padding-top: 1em;
   			padding-bottom: 1em;
   			margin-left: 1.5em;
 		}
 
-		.charts__next__image__e {
+		.charts__next__image__e { /*Image of the box*/
   			width: 65%;
   			padding-top: 1em;
   			padding-bottom: 1em;
