@@ -14,6 +14,6 @@ This is a project focused on Responsive Web Design, that uses HTML and responsiv
 ![Responsive Website](https://github.com/anferebu/BLOCKCHAIN-ADVISORY-SYSTEMS/blob/master/ResponsiveSite.jpg)
 ![Responsive Website 1](https://github.com/anferebu/BLOCKCHAIN-ADVISORY-SYSTEMS/blob/master/ResponsiveSite1.jpg)
 
-Author: Andrés R. Bucheli
+# Author: Andrés R. Bucheli
 
 
